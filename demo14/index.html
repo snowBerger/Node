@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <div id="output" style="width: 600px; height: 400px; background: #eee;"></div>
+  <div id="rock" style="width: 80px; height: 40px;">石头</div>
+  <div id="scissor" style="width: 80px; height: 40px;">剪刀</div>
+  <div id="paper" style="width: 80px; height: 40px;">布</div>
+  <script>
+    const $btn = {
+      rock: document.getElementById('rock'),
+      scissor: document.getElementById('scissor'),
+      paper: document.getElementById('paper')
+    }
+
+    const $output = document.getElementById('output')
+
+    for (let key of Object.keys($btn)) {
+      $btn[key].addEventListener('click', () => {
+        fetch(`http://${location.host}/game?action=${key}`)
+          .then(res => {
+            window.history.replaceState(null, null, `http://${location.host}/game?action=${key}`)
+            return res.text()
+          })
+          .then(text => {
+            $output.innerHTML += text + '<br/>'
+          })
+      })
+    }
+  </script>
+</body>
+
+</html>
