@@ -1,27 +1,22 @@
-var { graphql, buildSchema } = require('graphql');
+const Koa = require('koa')
+const mount = require('koa-mount')
+const static = require('koa-static')
+const graphqlHTTP = require('koa-graphql')
+const fs = require('fs')
 
-// Construct a schema, using GraphQL schema language
-var schema = buildSchema(`
-  type Query {
-    hello: String
-  }
-`);
+const schema = require('./schema')
 
-// The root provides a resolver function for each API endpoint
-var root = {
-  hello: () => {
-    return 'Hello world!';
-  },
-};
+const app = new Koa()
 
-// Run the GraphQL query '{ hello }' and print out the response
-// graphql(schema, '{ hello }', root).then((response) => {
-//   console.log(response);
-// });
+app.use(mount('/static', static(__dirname + '/source/static/')))
 
-module.exports = (query) => {
-  return graphql(schema, query, root).then((response) => {
-    // console.log(response);
-    return response;
-  });
-}
+app.use(mount('/api', graphqlHTTP({
+  schema
+})))
+
+app.use(mount('/', async ctx => {
+  ctx.status = 200
+  ctx.body = fs.readFileSync(`${__dirname}/source/index.html`, 'utf-8')
+}))
+
+app.listen(3000)
