@@ -1,0 +1,93 @@
+2019-09-10 17:06:49,410 INFO 79806 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40990593ms at 2019-09-11 04:30:00.003
+2019-09-10 17:06:49,410 INFO 79806 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24790590ms at 2019-09-11 00:00:00.000
+2019-09-10 17:06:49,411 INFO 79806 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24791590ms at 2019-09-11 00:00:01.001
+2019-09-10 17:06:49,293 INFO 79807 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:06:49,293 INFO 79807 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:06:49,293 INFO 79807 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:11:55,008 INFO 81128 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:11:55,008 INFO 81128 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:11:55,008 INFO 81128 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:11:58,629 INFO 81151 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:11:58,629 INFO 81151 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:11:58,629 INFO 81151 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:25:41,927 INFO 84952 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39858080ms at 2019-09-11 04:30:00.007
+2019-09-10 17:25:41,927 INFO 84952 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23658073ms at 2019-09-11 00:00:00.000
+2019-09-10 17:25:41,927 INFO 84952 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23659073ms at 2019-09-11 00:00:01.000
+2019-09-10 17:25:41,810 INFO 84953 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:25:41,810 INFO 84953 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:25:41,810 INFO 84953 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:30:08,328 INFO 85829 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:30:08,328 INFO 85829 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:30:08,328 INFO 85829 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:41:01,140 INFO 88573 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:41:01,140 INFO 88573 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:41:01,140 INFO 88573 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:43:06,277 INFO 89122 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:43:06,277 INFO 89122 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:43:06,277 INFO 89122 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:44:36,152 INFO 89544 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:44:36,152 INFO 89544 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:44:36,152 INFO 89544 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:45:04,362 INFO 89703 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 38695641ms at 2019-09-11 04:30:00.003
+2019-09-10 17:45:04,362 INFO 89703 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 22495638ms at 2019-09-11 00:00:00.000
+2019-09-10 17:45:04,362 INFO 89703 [Timer] /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 22496638ms at 2019-09-11 00:00:01.000
+2019-09-10 17:45:04,286 INFO 89704 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:45:04,286 INFO 89704 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:45:04,286 INFO 89704 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:47:30,190 INFO 90465 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:47:30,190 INFO 90465 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:47:30,190 INFO 90465 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:48:15,043 INFO 90698 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:48:15,043 INFO 90698 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:48:15,043 INFO 90698 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:50:18,113 INFO 91307 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:50:18,113 INFO 91307 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:50:18,113 INFO 91307 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:50:41,788 INFO 91457 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:50:41,788 INFO 91457 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:50:41,788 INFO 91457 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:51:31,164 INFO 91711 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:51:31,164 INFO 91711 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:51:31,164 INFO 91711 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:51:35,604 INFO 91733 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:51:35,604 INFO 91733 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:51:35,604 INFO 91733 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:51:52,374 INFO 91823 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:51:52,374 INFO 91823 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:51:52,374 INFO 91823 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:54:01,293 INFO 92523 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:54:01,293 INFO 92523 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:54:01,293 INFO 92523 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:55:43,337 INFO 93071 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:55:43,337 INFO 93071 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:55:43,337 INFO 93071 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 17:56:04,615 INFO 93178 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 17:56:04,615 INFO 93178 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 17:56:04,615 INFO 93178 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:02:38,832 INFO 95319 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:02:38,833 INFO 95319 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:02:38,833 INFO 95319 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:03:29,977 INFO 95510 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:03:29,977 INFO 95510 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:03:29,977 INFO 95510 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:05:55,853 INFO 96605 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:05:55,853 INFO 96605 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:05:55,853 INFO 96605 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:05:57,458 INFO 96621 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:05:57,458 INFO 96621 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:05:57,458 INFO 96621 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:07:20,369 INFO 97011 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:07:20,369 INFO 97011 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:07:20,369 INFO 97011 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:10:55,715 INFO 97774 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:10:55,715 INFO 97774 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:10:55,715 INFO 97774 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:12:38,746 INFO 98200 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:12:38,746 INFO 98200 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:12:38,746 INFO 98200 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:12:42,706 INFO 98223 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:12:42,706 INFO 98223 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:12:42,706 INFO 98223 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-10 18:13:55,078 INFO 98625 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-10 18:13:55,078 INFO 98625 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-10 18:13:55,078 INFO 98625 [egg-schedule]: register schedule /Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

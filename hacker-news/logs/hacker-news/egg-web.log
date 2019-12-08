@@ -1,0 +1,394 @@
+2019-09-10 17:06:49,266 INFO 79807 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:06:49,294 INFO 79807 [egg-multipart] stream mode enable
+2019-09-10 17:06:49,365 INFO 79807 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:06:49,371 INFO 79807 [egg-security] use csrf middleware
+2019-09-10 17:06:49,372 INFO 79807 [egg-security] use methodnoallow middleware
+2019-09-10 17:06:49,373 INFO 79807 [egg-security] use noopen middleware
+2019-09-10 17:06:49,374 INFO 79807 [egg-security] use nosniff middleware
+2019-09-10 17:06:49,374 INFO 79807 [egg-security] use xssProtection middleware
+2019-09-10 17:06:49,375 INFO 79807 [egg-security] use xframe middleware
+2019-09-10 17:06:49,376 INFO 79807 [egg-security] use dta middleware
+2019-09-10 17:06:49,376 INFO 79807 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:06:49,386 INFO 79807 [egg:core] dump config after load, 6ms
+2019-09-10 17:06:49,399 INFO 79807 [egg-watcher:application] watcher start success
+2019-09-10 17:06:49,405 INFO 79807 [egg:core] dump config after ready, 4ms
+2019-09-10 17:11:54,981 INFO 81128 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:11:55,008 INFO 81128 [egg-multipart] stream mode enable
+2019-09-10 17:11:55,079 INFO 81128 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:11:55,082 INFO 81128 [egg-security] use csrf middleware
+2019-09-10 17:11:55,083 INFO 81128 [egg-security] use methodnoallow middleware
+2019-09-10 17:11:55,083 INFO 81128 [egg-security] use noopen middleware
+2019-09-10 17:11:55,084 INFO 81128 [egg-security] use nosniff middleware
+2019-09-10 17:11:55,085 INFO 81128 [egg-security] use xssProtection middleware
+2019-09-10 17:11:55,086 INFO 81128 [egg-security] use xframe middleware
+2019-09-10 17:11:55,087 INFO 81128 [egg-security] use dta middleware
+2019-09-10 17:11:55,087 INFO 81128 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:11:55,097 INFO 81128 [egg:core] dump config after load, 6ms
+2019-09-10 17:11:55,108 INFO 81128 [egg-watcher:application] watcher start success
+2019-09-10 17:11:55,113 INFO 81128 [egg:core] dump config after ready, 4ms
+2019-09-10 17:11:58,577 INFO 81151 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:11:58,629 INFO 81151 [egg-multipart] stream mode enable
+2019-09-10 17:11:58,672 INFO 81151 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:11:58,675 INFO 81151 [egg-security] use csrf middleware
+2019-09-10 17:11:58,677 INFO 81151 [egg-security] use methodnoallow middleware
+2019-09-10 17:11:58,677 INFO 81151 [egg-security] use noopen middleware
+2019-09-10 17:11:58,678 INFO 81151 [egg-security] use nosniff middleware
+2019-09-10 17:11:58,678 INFO 81151 [egg-security] use xssProtection middleware
+2019-09-10 17:11:58,679 INFO 81151 [egg-security] use xframe middleware
+2019-09-10 17:11:58,679 INFO 81151 [egg-security] use dta middleware
+2019-09-10 17:11:58,679 INFO 81151 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:11:58,690 INFO 81151 [egg:core] dump config after load, 7ms
+2019-09-10 17:11:58,706 INFO 81151 [egg-watcher:application] watcher start success
+2019-09-10 17:11:58,714 INFO 81151 [egg:core] dump config after ready, 6ms
+2019-09-10 17:25:41,786 INFO 84953 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:25:41,810 INFO 84953 [egg-multipart] stream mode enable
+2019-09-10 17:25:41,881 INFO 84953 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:25:41,883 INFO 84953 [egg-security] use csrf middleware
+2019-09-10 17:25:41,884 INFO 84953 [egg-security] use methodnoallow middleware
+2019-09-10 17:25:41,885 INFO 84953 [egg-security] use noopen middleware
+2019-09-10 17:25:41,886 INFO 84953 [egg-security] use nosniff middleware
+2019-09-10 17:25:41,887 INFO 84953 [egg-security] use xssProtection middleware
+2019-09-10 17:25:41,888 INFO 84953 [egg-security] use xframe middleware
+2019-09-10 17:25:41,888 INFO 84953 [egg-security] use dta middleware
+2019-09-10 17:25:41,888 INFO 84953 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:25:41,897 INFO 84953 [egg:core] dump config after load, 4ms
+2019-09-10 17:25:41,910 INFO 84953 [egg-watcher:application] watcher start success
+2019-09-10 17:25:41,915 INFO 84953 [egg:core] dump config after ready, 3ms
+2019-09-10 17:25:49,724 INFO 84953 [egg-view-nunjucks] loading templates from ["/Users/berger/development/NodeJs/hacker-news/app/view"]
+2019-09-10 17:30:08,303 INFO 85829 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:30:08,328 INFO 85829 [egg-multipart] stream mode enable
+2019-09-10 17:30:08,358 INFO 85829 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:30:08,360 INFO 85829 [egg-security] use csrf middleware
+2019-09-10 17:30:08,361 INFO 85829 [egg-security] use methodnoallow middleware
+2019-09-10 17:30:08,361 INFO 85829 [egg-security] use noopen middleware
+2019-09-10 17:30:08,361 INFO 85829 [egg-security] use nosniff middleware
+2019-09-10 17:30:08,362 INFO 85829 [egg-security] use xssProtection middleware
+2019-09-10 17:30:08,362 INFO 85829 [egg-security] use xframe middleware
+2019-09-10 17:30:08,362 INFO 85829 [egg-security] use dta middleware
+2019-09-10 17:30:08,362 INFO 85829 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:30:08,371 INFO 85829 [egg:core] dump config after load, 5ms
+2019-09-10 17:30:08,383 INFO 85829 [egg-watcher:application] watcher start success
+2019-09-10 17:30:08,390 INFO 85829 [egg:core] dump config after ready, 4ms
+2019-09-10 17:41:01,115 INFO 88573 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:41:01,141 INFO 88573 [egg-multipart] stream mode enable
+2019-09-10 17:41:01,182 INFO 88573 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:41:01,185 INFO 88573 [egg-security] use csrf middleware
+2019-09-10 17:41:01,185 INFO 88573 [egg-security] use methodnoallow middleware
+2019-09-10 17:41:01,186 INFO 88573 [egg-security] use noopen middleware
+2019-09-10 17:41:01,186 INFO 88573 [egg-security] use nosniff middleware
+2019-09-10 17:41:01,186 INFO 88573 [egg-security] use xssProtection middleware
+2019-09-10 17:41:01,186 INFO 88573 [egg-security] use xframe middleware
+2019-09-10 17:41:01,187 INFO 88573 [egg-security] use dta middleware
+2019-09-10 17:41:01,187 INFO 88573 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:41:01,196 INFO 88573 [egg:core] dump config after load, 6ms
+2019-09-10 17:41:01,206 INFO 88573 [egg-watcher:application] watcher start success
+2019-09-10 17:41:01,211 INFO 88573 [egg:core] dump config after ready, 3ms
+2019-09-10 17:43:06,245 INFO 89122 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:43:06,278 INFO 89122 [egg-multipart] stream mode enable
+2019-09-10 17:43:06,314 INFO 89122 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:43:06,316 INFO 89122 [egg-security] use csrf middleware
+2019-09-10 17:43:06,317 INFO 89122 [egg-security] use methodnoallow middleware
+2019-09-10 17:43:06,317 INFO 89122 [egg-security] use noopen middleware
+2019-09-10 17:43:06,317 INFO 89122 [egg-security] use nosniff middleware
+2019-09-10 17:43:06,317 INFO 89122 [egg-security] use xssProtection middleware
+2019-09-10 17:43:06,318 INFO 89122 [egg-security] use xframe middleware
+2019-09-10 17:43:06,318 INFO 89122 [egg-security] use dta middleware
+2019-09-10 17:43:06,318 INFO 89122 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:43:06,325 INFO 89122 [egg:core] dump config after load, 4ms
+2019-09-10 17:43:06,335 INFO 89122 [egg-watcher:application] watcher start success
+2019-09-10 17:43:06,340 INFO 89122 [egg:core] dump config after ready, 3ms
+2019-09-10 17:44:36,130 INFO 89544 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:44:36,153 INFO 89544 [egg-multipart] stream mode enable
+2019-09-10 17:44:36,184 INFO 89544 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:44:36,186 INFO 89544 [egg-security] use csrf middleware
+2019-09-10 17:44:36,187 INFO 89544 [egg-security] use methodnoallow middleware
+2019-09-10 17:44:36,187 INFO 89544 [egg-security] use noopen middleware
+2019-09-10 17:44:36,187 INFO 89544 [egg-security] use nosniff middleware
+2019-09-10 17:44:36,187 INFO 89544 [egg-security] use xssProtection middleware
+2019-09-10 17:44:36,188 INFO 89544 [egg-security] use xframe middleware
+2019-09-10 17:44:36,188 INFO 89544 [egg-security] use dta middleware
+2019-09-10 17:44:36,188 INFO 89544 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:44:36,196 INFO 89544 [egg:core] dump config after load, 5ms
+2019-09-10 17:44:36,205 INFO 89544 [egg-watcher:application] watcher start success
+2019-09-10 17:44:36,210 INFO 89544 [egg:core] dump config after ready, 3ms
+2019-09-10 17:45:04,263 INFO 89704 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:45:04,286 INFO 89704 [egg-multipart] stream mode enable
+2019-09-10 17:45:04,326 INFO 89704 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:45:04,328 INFO 89704 [egg-security] use csrf middleware
+2019-09-10 17:45:04,328 INFO 89704 [egg-security] use methodnoallow middleware
+2019-09-10 17:45:04,329 INFO 89704 [egg-security] use noopen middleware
+2019-09-10 17:45:04,329 INFO 89704 [egg-security] use nosniff middleware
+2019-09-10 17:45:04,329 INFO 89704 [egg-security] use xssProtection middleware
+2019-09-10 17:45:04,330 INFO 89704 [egg-security] use xframe middleware
+2019-09-10 17:45:04,330 INFO 89704 [egg-security] use dta middleware
+2019-09-10 17:45:04,330 INFO 89704 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:45:04,337 INFO 89704 [egg:core] dump config after load, 4ms
+2019-09-10 17:45:04,352 INFO 89704 [egg-watcher:application] watcher start success
+2019-09-10 17:45:04,356 INFO 89704 [egg:core] dump config after ready, 2ms
+2019-09-10 17:47:30,163 INFO 90465 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:47:30,191 INFO 90465 [egg-multipart] stream mode enable
+2019-09-10 17:47:30,226 INFO 90465 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:47:30,228 INFO 90465 [egg-security] use csrf middleware
+2019-09-10 17:47:30,228 INFO 90465 [egg-security] use methodnoallow middleware
+2019-09-10 17:47:30,228 INFO 90465 [egg-security] use noopen middleware
+2019-09-10 17:47:30,229 INFO 90465 [egg-security] use nosniff middleware
+2019-09-10 17:47:30,229 INFO 90465 [egg-security] use xssProtection middleware
+2019-09-10 17:47:30,229 INFO 90465 [egg-security] use xframe middleware
+2019-09-10 17:47:30,230 INFO 90465 [egg-security] use dta middleware
+2019-09-10 17:47:30,230 INFO 90465 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:47:30,239 INFO 90465 [egg:core] dump config after load, 5ms
+2019-09-10 17:47:30,250 INFO 90465 [egg-watcher:application] watcher start success
+2019-09-10 17:47:30,256 INFO 90465 [egg:core] dump config after ready, 3ms
+2019-09-10 17:48:15,016 INFO 90698 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:48:15,044 INFO 90698 [egg-multipart] stream mode enable
+2019-09-10 17:48:15,083 INFO 90698 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:48:15,089 INFO 90698 [egg-security] use csrf middleware
+2019-09-10 17:48:15,090 INFO 90698 [egg-security] use methodnoallow middleware
+2019-09-10 17:48:15,091 INFO 90698 [egg-security] use noopen middleware
+2019-09-10 17:48:15,092 INFO 90698 [egg-security] use nosniff middleware
+2019-09-10 17:48:15,092 INFO 90698 [egg-security] use xssProtection middleware
+2019-09-10 17:48:15,092 INFO 90698 [egg-security] use xframe middleware
+2019-09-10 17:48:15,093 INFO 90698 [egg-security] use dta middleware
+2019-09-10 17:48:15,093 INFO 90698 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:48:15,102 INFO 90698 [egg:core] dump config after load, 5ms
+2019-09-10 17:48:15,113 INFO 90698 [egg-watcher:application] watcher start success
+2019-09-10 17:48:15,118 INFO 90698 [egg:core] dump config after ready, 3ms
+2019-09-10 17:50:18,082 INFO 91307 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:50:18,114 INFO 91307 [egg-multipart] stream mode enable
+2019-09-10 17:50:18,198 INFO 91307 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:50:18,201 INFO 91307 [egg-security] use csrf middleware
+2019-09-10 17:50:18,202 INFO 91307 [egg-security] use methodnoallow middleware
+2019-09-10 17:50:18,203 INFO 91307 [egg-security] use noopen middleware
+2019-09-10 17:50:18,204 INFO 91307 [egg-security] use nosniff middleware
+2019-09-10 17:50:18,205 INFO 91307 [egg-security] use xssProtection middleware
+2019-09-10 17:50:18,206 INFO 91307 [egg-security] use xframe middleware
+2019-09-10 17:50:18,207 INFO 91307 [egg-security] use dta middleware
+2019-09-10 17:50:18,207 INFO 91307 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:50:18,219 INFO 91307 [egg:core] dump config after load, 5ms
+2019-09-10 17:50:18,231 INFO 91307 [egg-watcher:application] watcher start success
+2019-09-10 17:50:18,236 INFO 91307 [egg:core] dump config after ready, 3ms
+2019-09-10 17:50:41,766 INFO 91457 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:50:41,789 INFO 91457 [egg-multipart] stream mode enable
+2019-09-10 17:50:41,820 INFO 91457 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:50:41,822 INFO 91457 [egg-security] use csrf middleware
+2019-09-10 17:50:41,823 INFO 91457 [egg-security] use methodnoallow middleware
+2019-09-10 17:50:41,823 INFO 91457 [egg-security] use noopen middleware
+2019-09-10 17:50:41,823 INFO 91457 [egg-security] use nosniff middleware
+2019-09-10 17:50:41,823 INFO 91457 [egg-security] use xssProtection middleware
+2019-09-10 17:50:41,824 INFO 91457 [egg-security] use xframe middleware
+2019-09-10 17:50:41,824 INFO 91457 [egg-security] use dta middleware
+2019-09-10 17:50:41,824 INFO 91457 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:50:41,831 INFO 91457 [egg:core] dump config after load, 4ms
+2019-09-10 17:50:41,840 INFO 91457 [egg-watcher:application] watcher start success
+2019-09-10 17:50:41,845 INFO 91457 [egg:core] dump config after ready, 3ms
+2019-09-10 17:51:31,142 INFO 91711 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:51:31,165 INFO 91711 [egg-multipart] stream mode enable
+2019-09-10 17:51:31,197 INFO 91711 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:51:31,199 INFO 91711 [egg-security] use csrf middleware
+2019-09-10 17:51:31,199 INFO 91711 [egg-security] use methodnoallow middleware
+2019-09-10 17:51:31,200 INFO 91711 [egg-security] use noopen middleware
+2019-09-10 17:51:31,200 INFO 91711 [egg-security] use nosniff middleware
+2019-09-10 17:51:31,200 INFO 91711 [egg-security] use xssProtection middleware
+2019-09-10 17:51:31,200 INFO 91711 [egg-security] use xframe middleware
+2019-09-10 17:51:31,201 INFO 91711 [egg-security] use dta middleware
+2019-09-10 17:51:31,201 INFO 91711 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:51:31,208 INFO 91711 [egg:core] dump config after load, 4ms
+2019-09-10 17:51:31,218 INFO 91711 [egg-watcher:application] watcher start success
+2019-09-10 17:51:31,223 INFO 91711 [egg:core] dump config after ready, 3ms
+2019-09-10 17:51:35,579 INFO 91733 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:51:35,604 INFO 91733 [egg-multipart] stream mode enable
+2019-09-10 17:51:35,640 INFO 91733 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:51:35,642 INFO 91733 [egg-security] use csrf middleware
+2019-09-10 17:51:35,642 INFO 91733 [egg-security] use methodnoallow middleware
+2019-09-10 17:51:35,642 INFO 91733 [egg-security] use noopen middleware
+2019-09-10 17:51:35,643 INFO 91733 [egg-security] use nosniff middleware
+2019-09-10 17:51:35,643 INFO 91733 [egg-security] use xssProtection middleware
+2019-09-10 17:51:35,643 INFO 91733 [egg-security] use xframe middleware
+2019-09-10 17:51:35,643 INFO 91733 [egg-security] use dta middleware
+2019-09-10 17:51:35,643 INFO 91733 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:51:35,650 INFO 91733 [egg:core] dump config after load, 4ms
+2019-09-10 17:51:35,660 INFO 91733 [egg-watcher:application] watcher start success
+2019-09-10 17:51:35,664 INFO 91733 [egg:core] dump config after ready, 2ms
+2019-09-10 17:51:52,345 INFO 91823 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:51:52,375 INFO 91823 [egg-multipart] stream mode enable
+2019-09-10 17:51:52,414 INFO 91823 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:51:52,417 INFO 91823 [egg-security] use csrf middleware
+2019-09-10 17:51:52,420 INFO 91823 [egg-security] use methodnoallow middleware
+2019-09-10 17:51:52,420 INFO 91823 [egg-security] use noopen middleware
+2019-09-10 17:51:52,421 INFO 91823 [egg-security] use nosniff middleware
+2019-09-10 17:51:52,421 INFO 91823 [egg-security] use xssProtection middleware
+2019-09-10 17:51:52,421 INFO 91823 [egg-security] use xframe middleware
+2019-09-10 17:51:52,422 INFO 91823 [egg-security] use dta middleware
+2019-09-10 17:51:52,422 INFO 91823 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:51:52,431 INFO 91823 [egg:core] dump config after load, 5ms
+2019-09-10 17:51:52,443 INFO 91823 [egg-watcher:application] watcher start success
+2019-09-10 17:51:52,447 INFO 91823 [egg:core] dump config after ready, 2ms
+2019-09-10 17:54:01,271 INFO 92523 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:54:01,294 INFO 92523 [egg-multipart] stream mode enable
+2019-09-10 17:54:01,322 INFO 92523 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:54:01,324 INFO 92523 [egg-security] use csrf middleware
+2019-09-10 17:54:01,324 INFO 92523 [egg-security] use methodnoallow middleware
+2019-09-10 17:54:01,325 INFO 92523 [egg-security] use noopen middleware
+2019-09-10 17:54:01,325 INFO 92523 [egg-security] use nosniff middleware
+2019-09-10 17:54:01,325 INFO 92523 [egg-security] use xssProtection middleware
+2019-09-10 17:54:01,325 INFO 92523 [egg-security] use xframe middleware
+2019-09-10 17:54:01,326 INFO 92523 [egg-security] use dta middleware
+2019-09-10 17:54:01,326 INFO 92523 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:54:01,333 INFO 92523 [egg:core] dump config after load, 4ms
+2019-09-10 17:54:01,343 INFO 92523 [egg-watcher:application] watcher start success
+2019-09-10 17:54:01,347 INFO 92523 [egg:core] dump config after ready, 3ms
+2019-09-10 17:55:43,309 INFO 93071 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:55:43,338 INFO 93071 [egg-multipart] stream mode enable
+2019-09-10 17:55:43,415 INFO 93071 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:55:43,418 INFO 93071 [egg-security] use csrf middleware
+2019-09-10 17:55:43,419 INFO 93071 [egg-security] use methodnoallow middleware
+2019-09-10 17:55:43,420 INFO 93071 [egg-security] use noopen middleware
+2019-09-10 17:55:43,421 INFO 93071 [egg-security] use nosniff middleware
+2019-09-10 17:55:43,421 INFO 93071 [egg-security] use xssProtection middleware
+2019-09-10 17:55:43,422 INFO 93071 [egg-security] use xframe middleware
+2019-09-10 17:55:43,423 INFO 93071 [egg-security] use dta middleware
+2019-09-10 17:55:43,423 INFO 93071 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:55:43,434 INFO 93071 [egg:core] dump config after load, 4ms
+2019-09-10 17:55:43,445 INFO 93071 [egg-watcher:application] watcher start success
+2019-09-10 17:55:43,449 INFO 93071 [egg:core] dump config after ready, 3ms
+2019-09-10 17:56:04,589 INFO 93178 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 17:56:04,616 INFO 93178 [egg-multipart] stream mode enable
+2019-09-10 17:56:04,649 INFO 93178 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 17:56:04,651 INFO 93178 [egg-security] use csrf middleware
+2019-09-10 17:56:04,651 INFO 93178 [egg-security] use methodnoallow middleware
+2019-09-10 17:56:04,652 INFO 93178 [egg-security] use noopen middleware
+2019-09-10 17:56:04,652 INFO 93178 [egg-security] use nosniff middleware
+2019-09-10 17:56:04,652 INFO 93178 [egg-security] use xssProtection middleware
+2019-09-10 17:56:04,652 INFO 93178 [egg-security] use xframe middleware
+2019-09-10 17:56:04,653 INFO 93178 [egg-security] use dta middleware
+2019-09-10 17:56:04,653 INFO 93178 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 17:56:04,660 INFO 93178 [egg:core] dump config after load, 4ms
+2019-09-10 17:56:04,670 INFO 93178 [egg-watcher:application] watcher start success
+2019-09-10 17:56:04,674 INFO 93178 [egg:core] dump config after ready, 2ms
+2019-09-10 18:02:38,801 INFO 95319 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:02:38,833 INFO 95319 [egg-multipart] stream mode enable
+2019-09-10 18:02:38,904 INFO 95319 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:02:38,907 INFO 95319 [egg-security] use csrf middleware
+2019-09-10 18:02:38,908 INFO 95319 [egg-security] use methodnoallow middleware
+2019-09-10 18:02:38,908 INFO 95319 [egg-security] use noopen middleware
+2019-09-10 18:02:38,909 INFO 95319 [egg-security] use nosniff middleware
+2019-09-10 18:02:38,909 INFO 95319 [egg-security] use xssProtection middleware
+2019-09-10 18:02:38,910 INFO 95319 [egg-security] use xframe middleware
+2019-09-10 18:02:38,910 INFO 95319 [egg-security] use dta middleware
+2019-09-10 18:02:38,910 INFO 95319 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:02:38,921 INFO 95319 [egg:core] dump config after load, 6ms
+2019-09-10 18:02:38,933 INFO 95319 [egg-watcher:application] watcher start success
+2019-09-10 18:02:38,938 INFO 95319 [egg:core] dump config after ready, 3ms
+2019-09-10 18:03:29,948 INFO 95510 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:03:29,978 INFO 95510 [egg-multipart] stream mode enable
+2019-09-10 18:03:30,016 INFO 95510 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:03:30,018 INFO 95510 [egg-security] use csrf middleware
+2019-09-10 18:03:30,018 INFO 95510 [egg-security] use methodnoallow middleware
+2019-09-10 18:03:30,018 INFO 95510 [egg-security] use noopen middleware
+2019-09-10 18:03:30,019 INFO 95510 [egg-security] use nosniff middleware
+2019-09-10 18:03:30,019 INFO 95510 [egg-security] use xssProtection middleware
+2019-09-10 18:03:30,019 INFO 95510 [egg-security] use xframe middleware
+2019-09-10 18:03:30,019 INFO 95510 [egg-security] use dta middleware
+2019-09-10 18:03:30,019 INFO 95510 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:03:30,028 INFO 95510 [egg:core] dump config after load, 5ms
+2019-09-10 18:03:30,040 INFO 95510 [egg-watcher:application] watcher start success
+2019-09-10 18:03:30,045 INFO 95510 [egg:core] dump config after ready, 3ms
+2019-09-10 18:05:55,822 INFO 96605 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:05:55,854 INFO 96605 [egg-multipart] stream mode enable
+2019-09-10 18:05:55,921 INFO 96605 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:05:55,924 INFO 96605 [egg-security] use csrf middleware
+2019-09-10 18:05:55,925 INFO 96605 [egg-security] use methodnoallow middleware
+2019-09-10 18:05:55,925 INFO 96605 [egg-security] use noopen middleware
+2019-09-10 18:05:55,926 INFO 96605 [egg-security] use nosniff middleware
+2019-09-10 18:05:55,927 INFO 96605 [egg-security] use xssProtection middleware
+2019-09-10 18:05:55,928 INFO 96605 [egg-security] use xframe middleware
+2019-09-10 18:05:55,929 INFO 96605 [egg-security] use dta middleware
+2019-09-10 18:05:55,929 INFO 96605 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:05:55,939 INFO 96605 [egg:core] dump config after load, 4ms
+2019-09-10 18:05:55,950 INFO 96605 [egg-watcher:application] watcher start success
+2019-09-10 18:05:55,954 INFO 96605 [egg:core] dump config after ready, 3ms
+2019-09-10 18:05:57,429 INFO 96621 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:05:57,459 INFO 96621 [egg-multipart] stream mode enable
+2019-09-10 18:05:57,490 INFO 96621 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:05:57,493 INFO 96621 [egg-security] use csrf middleware
+2019-09-10 18:05:57,494 INFO 96621 [egg-security] use methodnoallow middleware
+2019-09-10 18:05:57,494 INFO 96621 [egg-security] use noopen middleware
+2019-09-10 18:05:57,494 INFO 96621 [egg-security] use nosniff middleware
+2019-09-10 18:05:57,495 INFO 96621 [egg-security] use xssProtection middleware
+2019-09-10 18:05:57,495 INFO 96621 [egg-security] use xframe middleware
+2019-09-10 18:05:57,495 INFO 96621 [egg-security] use dta middleware
+2019-09-10 18:05:57,495 INFO 96621 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:05:57,503 INFO 96621 [egg:core] dump config after load, 4ms
+2019-09-10 18:05:57,514 INFO 96621 [egg-watcher:application] watcher start success
+2019-09-10 18:05:57,519 INFO 96621 [egg:core] dump config after ready, 3ms
+2019-09-10 18:07:20,346 INFO 97011 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:07:20,370 INFO 97011 [egg-multipart] stream mode enable
+2019-09-10 18:07:20,406 INFO 97011 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:07:20,408 INFO 97011 [egg-security] use csrf middleware
+2019-09-10 18:07:20,409 INFO 97011 [egg-security] use methodnoallow middleware
+2019-09-10 18:07:20,409 INFO 97011 [egg-security] use noopen middleware
+2019-09-10 18:07:20,409 INFO 97011 [egg-security] use nosniff middleware
+2019-09-10 18:07:20,409 INFO 97011 [egg-security] use xssProtection middleware
+2019-09-10 18:07:20,410 INFO 97011 [egg-security] use xframe middleware
+2019-09-10 18:07:20,410 INFO 97011 [egg-security] use dta middleware
+2019-09-10 18:07:20,410 INFO 97011 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:07:20,419 INFO 97011 [egg:core] dump config after load, 5ms
+2019-09-10 18:07:20,431 INFO 97011 [egg-watcher:application] watcher start success
+2019-09-10 18:07:20,437 INFO 97011 [egg:core] dump config after ready, 4ms
+2019-09-10 18:10:55,693 INFO 97774 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:10:55,715 INFO 97774 [egg-multipart] stream mode enable
+2019-09-10 18:10:55,745 INFO 97774 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:10:55,746 INFO 97774 [egg-security] use csrf middleware
+2019-09-10 18:10:55,747 INFO 97774 [egg-security] use methodnoallow middleware
+2019-09-10 18:10:55,747 INFO 97774 [egg-security] use noopen middleware
+2019-09-10 18:10:55,747 INFO 97774 [egg-security] use nosniff middleware
+2019-09-10 18:10:55,748 INFO 97774 [egg-security] use xssProtection middleware
+2019-09-10 18:10:55,748 INFO 97774 [egg-security] use xframe middleware
+2019-09-10 18:10:55,748 INFO 97774 [egg-security] use dta middleware
+2019-09-10 18:10:55,748 INFO 97774 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:10:55,755 INFO 97774 [egg:core] dump config after load, 4ms
+2019-09-10 18:10:55,765 INFO 97774 [egg-watcher:application] watcher start success
+2019-09-10 18:10:55,769 INFO 97774 [egg:core] dump config after ready, 2ms
+2019-09-10 18:12:38,723 INFO 98200 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:12:38,746 INFO 98200 [egg-multipart] stream mode enable
+2019-09-10 18:12:38,780 INFO 98200 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:12:38,782 INFO 98200 [egg-security] use csrf middleware
+2019-09-10 18:12:38,782 INFO 98200 [egg-security] use methodnoallow middleware
+2019-09-10 18:12:38,782 INFO 98200 [egg-security] use noopen middleware
+2019-09-10 18:12:38,783 INFO 98200 [egg-security] use nosniff middleware
+2019-09-10 18:12:38,783 INFO 98200 [egg-security] use xssProtection middleware
+2019-09-10 18:12:38,783 INFO 98200 [egg-security] use xframe middleware
+2019-09-10 18:12:38,783 INFO 98200 [egg-security] use dta middleware
+2019-09-10 18:12:38,783 INFO 98200 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:12:38,790 INFO 98200 [egg:core] dump config after load, 4ms
+2019-09-10 18:12:38,800 INFO 98200 [egg-watcher:application] watcher start success
+2019-09-10 18:12:38,805 INFO 98200 [egg:core] dump config after ready, 3ms
+2019-09-10 18:12:42,684 INFO 98223 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:12:42,707 INFO 98223 [egg-multipart] stream mode enable
+2019-09-10 18:12:42,741 INFO 98223 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:12:42,742 INFO 98223 [egg-security] use csrf middleware
+2019-09-10 18:12:42,743 INFO 98223 [egg-security] use methodnoallow middleware
+2019-09-10 18:12:42,743 INFO 98223 [egg-security] use noopen middleware
+2019-09-10 18:12:42,744 INFO 98223 [egg-security] use nosniff middleware
+2019-09-10 18:12:42,744 INFO 98223 [egg-security] use xssProtection middleware
+2019-09-10 18:12:42,744 INFO 98223 [egg-security] use xframe middleware
+2019-09-10 18:12:42,744 INFO 98223 [egg-security] use dta middleware
+2019-09-10 18:12:42,744 INFO 98223 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:12:42,752 INFO 98223 [egg:core] dump config after load, 3ms
+2019-09-10 18:12:42,761 INFO 98223 [egg-watcher:application] watcher start success
+2019-09-10 18:12:42,766 INFO 98223 [egg:core] dump config after ready, 3ms
+2019-09-10 18:13:55,054 INFO 98625 [egg:logger] init all loggers with options: {"dir":"/Users/berger/development/NodeJs/hacker-news/logs/hacker-news","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"hacker-news-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-10 18:13:55,079 INFO 98625 [egg-multipart] stream mode enable
+2019-09-10 18:13:55,109 INFO 98625 [egg-static] starting static serve /public/ -> /Users/berger/development/NodeJs/hacker-news/app/public
+2019-09-10 18:13:55,111 INFO 98625 [egg-security] use csrf middleware
+2019-09-10 18:13:55,111 INFO 98625 [egg-security] use methodnoallow middleware
+2019-09-10 18:13:55,112 INFO 98625 [egg-security] use noopen middleware
+2019-09-10 18:13:55,112 INFO 98625 [egg-security] use nosniff middleware
+2019-09-10 18:13:55,112 INFO 98625 [egg-security] use xssProtection middleware
+2019-09-10 18:13:55,112 INFO 98625 [egg-security] use xframe middleware
+2019-09-10 18:13:55,113 INFO 98625 [egg-security] use dta middleware
+2019-09-10 18:13:55,113 INFO 98625 [egg-security] compose 7 middlewares into one security middleware
+2019-09-10 18:13:55,120 INFO 98625 [egg:core] dump config after load, 4ms
+2019-09-10 18:13:55,129 INFO 98625 [egg-watcher:application] watcher start success
+2019-09-10 18:13:55,134 INFO 98625 [egg:core] dump config after ready, 3ms
+2019-09-10 18:14:09,465 INFO 98625 [egg-view-nunjucks] loading templates from ["/Users/berger/development/NodeJs/hacker-news/app/view"]

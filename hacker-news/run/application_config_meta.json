@@ -1,0 +1,280 @@
+{
+  "keys": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js"
+    },
+    "root": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js",
+    "serverUrl": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js"
+  },
+  "middleware": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js",
+  "robot": {
+    "ua": "/Users/berger/development/NodeJs/hacker-news/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "name": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "version": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "description": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "main": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "test": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "license": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "moment": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "strict": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "depth": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "env": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "level": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "logging": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "port": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/berger/development/NodeJs/hacker-news/node_modules/egg/config/config.default.js"
+}
