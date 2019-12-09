@@ -6,8 +6,14 @@ const fs = require('fs')
 const app = new Koa()
 app.use(static(__dirname + '/source'))
 
+const buffer = fs.readFileSync(__dirname + '/source/index.html')
+
 app.use(mount('/', async ctx => {
-  ctx.body = fs.readFileSync(__dirname + '/source/index.html', 'utf-8')
+  ctx.status = 200
+  ctx.type = 'html'
+  ctx.body = buffer
+  // ctx.body = fs.readFileSync(__dirname + '/source/index.html')
 }))
 
-app.listen(3000)
+// app.listen(3000)
+module.exports = app

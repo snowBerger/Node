@@ -30,4 +30,5 @@ app.use(async ctx => {
   ctx.body = detailTemplate(result)
 })
 
-app.listen(3000)
+// app.listen(3000)
+module.exports = app

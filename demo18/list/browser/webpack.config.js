@@ -1,7 +1,7 @@
 module.exports = {
   mode: 'development',
   devtool: false,
-  entry: `${__dirname}/main.js`,
+  entry: __dirname + '/main.jsx',
   output: {
     filename: 'main.js',
     path: `${__dirname}/../node/source/`,

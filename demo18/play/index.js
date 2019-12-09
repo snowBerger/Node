@@ -19,4 +19,5 @@ app.use(mount('/', async ctx => {
   ctx.body = fs.readFileSync(`${__dirname}/source/index.html`, 'utf-8')
 }))
 
-app.listen(3000)
+// app.listen(3000)
+module.exports = app
