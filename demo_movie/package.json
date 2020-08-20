@@ -4,7 +4,7 @@
   "description": "'an project admin your movie list about node & mongodb.'",
   "main": "app.js",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "bootstrap": "^3.3.7",
     "express": "^4.16.2",
