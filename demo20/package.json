@@ -17,6 +17,6 @@
     "protocol-buffers": "^4.1.0",
     "request": "^2.88.0",
     "text-loader": "0.0.1",
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   }
 }
